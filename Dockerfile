@@ -1,4 +1,4 @@
-FROM elasticsearch:5.5
+FROM elasticsearch:6.5
 MAINTAINER "Talos Digital"
 
 RUN elasticsearch-plugin install analysis-phonetic
