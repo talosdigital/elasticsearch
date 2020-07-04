@@ -1,4 +1,4 @@
-# Docker ElasticSearch 6.5 
+# Docker ElasticSearch 6.8.10
 
 Optimized for Magento2
 
